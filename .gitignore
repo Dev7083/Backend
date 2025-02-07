@@ -1,0 +1,9 @@
+# Ignore node_modules folder
+node_modules/
+**/node_modules/
+# Ignore environment files
+*.env
+**/*.env
+
+# Ignore specific environment file
+# DbConnection/.env.sample
